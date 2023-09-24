@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Support for Hunger Relief",
+      "category": "Food",
+      "description": "Help us provide nutritious meals to those in need.",
+      "price": 50,
+      "cardBackGroundColour": "#FF5733",
+      "categoryBackGroundColour": "#FFA500",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 2,
+      "title": "Educational Scholarships",
+      "category": "Education",
+      "description": "Sponsor underprivileged students' education for a brighter future.",
+      "price": 75,
+      "cardBackGroundColour": "#3374FF",
+      "categoryBackGroundColour": "#0066CC",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 3,
+      "title": "Medical Care for the Needy",
+      "category": "Health",
+      "description": "Provide healthcare support to individuals without access to medical facilities.",
+      "price": 100,
+      "cardBackGroundColour": "#33FF57",
+      "categoryBackGroundColour": "#00CC44",
+      "textColour": "#000000"
+    },
+    {
+      "id": 4,
+      "title": "Warm Clothing Drive",
+      "category": "Cloth",
+      "description": "Donate warm clothing to help those facing cold winters.",
+      "price": 30,
+      "cardBackGroundColour": "#FF33A5",
+      "categoryBackGroundColour": "#CC0066",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 5,
+      "title": "Meal Kits for Families",
+      "category": "Food",
+      "description": "Contribute to meal kits for families struggling with food insecurity.",
+      "price": 45,
+      "cardBackGroundColour": "#FF5733",
+      "categoryBackGroundColour": "#FFA500",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 6,
+      "title": "School Supplies for Kids",
+      "category": "Education",
+      "description": "Provide essential school supplies to underprivileged children.",
+      "price": 60,
+      "cardBackGroundColour": "#3374FF",
+      "categoryBackGroundColour": "#0066CC",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 7,
+      "title": "Healthcare Outreach Program",
+      "category": "Health",
+      "description": "Support a healthcare outreach program in underserved communities.",
+      "price": 90,
+      "cardBackGroundColour": "#33FF57",
+      "categoryBackGroundColour": "#00CC44",
+      "textColour": "#000000"
+    },
+    {
+      "id": 8,
+      "title": "Warm Blankets for the Homeless",
+      "category": "Cloth",
+      "description": "Donate blankets to keep homeless individuals warm during the winter.",
+      "price": 25,
+      "cardBackGroundColour": "#FF33A5",
+      "categoryBackGroundColour": "#CC0066",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 9,
+      "title": "Emergency Food Assistance",
+      "category": "Food",
+      "description": "Provide emergency food assistance to families in crisis.",
+      "price": 55,
+      "cardBackGroundColour": "#FF5733",
+      "categoryBackGroundColour": "#FFA500",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 10,
+      "title": "Scholarships for Higher Education",
+      "category": "Education",
+      "description": "Support aspiring students in pursuing higher education.",
+      "price": 80,
+      "cardBackGroundColour": "#3374FF",
+      "categoryBackGroundColour": "#0066CC",
+      "textColour": "#FFFFFF"
+    },
+    {
+      "id": 11,
+      "title": "Medical Supplies for Clinics",
+      "category": "Health",
+      "description": "Donate essential medical supplies to clinics serving vulnerable populations.",
+      "price": 110,
+      "cardBackGroundColour": "#33FF57",
+      "categoryBackGroundColour": "#00CC44",
+      "textColour": "#000000"
+    },
+    {
+      "id": 12,
+      "title": "Winter Clothing Drive",
+      "category": "Cloth",
+      "description": "Collect winter clothing items for those in need during the cold season.",
+      "price": 35,
+      "cardBackGroundColour": "#FF33A5",
+      "categoryBackGroundColour": "#CC0066",
+      "textColour": "#FFFFFF"
+    }
+  ]
+  
