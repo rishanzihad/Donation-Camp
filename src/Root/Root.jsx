@@ -24,7 +24,7 @@ const myCreateRoot = createBrowserRouter([
                 element:<Statics></Statics>
             },
             {
-                path:'/details/:id',
+                path:'details/:id',
                 element:<DonationDetails></DonationDetails>,
                 loader:()=> fetch('/data.json')
             },
