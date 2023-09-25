@@ -3,6 +3,7 @@ import MainLayOut from "../MainLayOut/MainLayOut";
 import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import Statics from "../Pages/Statics/Statics";
+import DonationDetails from "../Pages/DonationDetails/DonationDetails";
 
 const myCreateRoot = createBrowserRouter([
     {
@@ -22,6 +23,11 @@ const myCreateRoot = createBrowserRouter([
                 path:'/statics',
                 element:<Statics></Statics>
             },
+            {
+                path:'/details/:id',
+                element:<DonationDetails></DonationDetails>,
+                loader:()=> fetch('/data.json')
+            }
         ]
     }
 ])

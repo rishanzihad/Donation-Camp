@@ -2,122 +2,134 @@
     {
       "id": 1,
       "title": "Support for Hunger Relief",
+      "image": "https://i.ibb.co/C1bXhs7/Food.png",
       "category": "Food",
       "description": "Help us provide nutritious meals to those in need.",
       "price": 50,
-      "cardBackGroundColour": "#FF5733",
-      "categoryBackGroundColour": "#FFA500",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#F7CDD2",
+      "categoryBackGroundColour": "#F3B4BC",
+      "textColour": "#FF0000"
     },
     {
       "id": 2,
+      "image": "https://i.ibb.co/7XYSpYt/Education.png",
       "title": "Educational Scholarships",
       "category": "Education",
       "description": "Sponsor underprivileged students' education for a brighter future.",
       "price": 75,
-      "cardBackGroundColour": "#3374FF",
-      "categoryBackGroundColour": "#0066CC",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#98ceff",
+      "categoryBackGroundColour": "#70baff",
+      "textColour": "#0000FF"
     },
     {
       "id": 3,
+      "image": "https://i.ibb.co/fQCvRHx/Health.png",
       "title": "Medical Care for the Needy",
       "category": "Health",
       "description": "Provide healthcare support to individuals without access to medical facilities.",
       "price": 100,
-      "cardBackGroundColour": "#33FF57",
-      "categoryBackGroundColour": "#00CC44",
-      "textColour": "#000000"
+      "cardBackGroundColour": "#DEFFED",
+      "categoryBackGroundColour": "#A5FDD1",
+      "textColour": " #00FF00"
     },
     {
       "id": 4,
+      "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
       "title": "Warm Clothing Drive",
       "category": "Cloth",
       "description": "Donate warm clothing to help those facing cold winters.",
       "price": 30,
-      "cardBackGroundColour": "#FF33A5",
-      "categoryBackGroundColour": "#CC0066",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#FFF4E9",
+      "categoryBackGroundColour": "#F2D8B4",
+      "textColour": "#E09F45"
     },
     {
       "id": 5,
+      "image": "https://i.ibb.co/C1bXhs7/Food.png",
       "title": "Meal Kits for Families",
       "category": "Food",
       "description": "Contribute to meal kits for families struggling with food insecurity.",
       "price": 45,
-      "cardBackGroundColour": "#FF5733",
-      "categoryBackGroundColour": "#FFA500",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#F7CDD2",
+      "categoryBackGroundColour": "#F3B4BC",
+      "textColour": "#FF0000"
     },
     {
       "id": 6,
+      "image": "https://i.ibb.co/7XYSpYt/Education.png",
       "title": "School Supplies for Kids",
       "category": "Education",
       "description": "Provide essential school supplies to underprivileged children.",
       "price": 60,
-      "cardBackGroundColour": "#3374FF",
-      "categoryBackGroundColour": "#0066CC",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#98ceff",
+      "categoryBackGroundColour": "#70baff",
+      "textColour": "#0000FF"
     },
     {
       "id": 7,
+      "image": "https://i.ibb.co/fQCvRHx/Health.png",
       "title": "Healthcare Outreach Program",
       "category": "Health",
       "description": "Support a healthcare outreach program in underserved communities.",
       "price": 90,
-      "cardBackGroundColour": "#33FF57",
-      "categoryBackGroundColour": "#00CC44",
-      "textColour": "#000000"
+      "cardBackGroundColour": "#DEFFED",
+      "categoryBackGroundColour": "#A5FDD1",
+      "textColour": " #00FF00"
     },
     {
       "id": 8,
+      "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
       "title": "Warm Blankets for the Homeless",
       "category": "Cloth",
       "description": "Donate blankets to keep homeless individuals warm during the winter.",
       "price": 25,
-      "cardBackGroundColour": "#FF33A5",
-      "categoryBackGroundColour": "#CC0066",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#FFF4E9",
+      "categoryBackGroundColour": "#F2D8B4",
+      "textColour": "#E09F45"
     },
     {
       "id": 9,
+      "image": "https://i.ibb.co/C1bXhs7/Food.png",
       "title": "Emergency Food Assistance",
       "category": "Food",
       "description": "Provide emergency food assistance to families in crisis.",
       "price": 55,
-      "cardBackGroundColour": "#FF5733",
-      "categoryBackGroundColour": "#FFA500",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#F7CDD2",
+      "categoryBackGroundColour": "#F3B4BC",
+      "textColour": "#FF0000"
     },
     {
       "id": 10,
+      "image": "https://i.ibb.co/7XYSpYt/Education.png",
       "title": "Scholarships for Higher Education",
       "category": "Education",
       "description": "Support aspiring students in pursuing higher education.",
       "price": 80,
-      "cardBackGroundColour": "#3374FF",
-      "categoryBackGroundColour": "#0066CC",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#98ceff",
+      "categoryBackGroundColour": "#70baff",
+      "textColour": "#0000FF"
     },
     {
       "id": 11,
+      "image": "https://i.ibb.co/fQCvRHx/Health.png",
       "title": "Medical Supplies for Clinics",
       "category": "Health",
       "description": "Donate essential medical supplies to clinics serving vulnerable populations.",
       "price": 110,
-      "cardBackGroundColour": "#33FF57",
-      "categoryBackGroundColour": "#00CC44",
-      "textColour": "#000000"
+      "cardBackGroundColour": "#DEFFED",
+      "categoryBackGroundColour": "#A5FDD1",
+      "textColour": " #00FF00"
     },
     {
       "id": 12,
+      "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
       "title": "Winter Clothing Drive",
       "category": "Cloth",
       "description": "Collect winter clothing items for those in need during the cold season.",
       "price": 35,
-      "cardBackGroundColour": "#FF33A5",
-      "categoryBackGroundColour": "#CC0066",
-      "textColour": "#FFFFFF"
+      "cardBackGroundColour": "#FFF4E9",
+      "categoryBackGroundColour": "#F2D8B4",
+      "textColour": "#E09F45"
     }
   ]
   
