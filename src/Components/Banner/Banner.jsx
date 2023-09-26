@@ -14,25 +14,15 @@ const Banner = ({donations}) => {
     const [donationss,setdonation] =useState([])
     
    
-    const handleSubmit =e=>{
+    const handleSubmit = e => {
         e.preventDefault();
-        if(input){
-         const Scarch = donations.filter( donation => donation.category == input )
-         
-            
-         if(Scarch){
-
-            setdonation(Scarch)
-
-            }
-            
-            
-         }
-            
-             setInput('')
-          
-            
+        if (input) {
+          const search = input.toLowerCase(); 
+          const matchedDonations = donations.filter(donation => donation.category.toLowerCase() === search);
+          setdonation(matchedDonations);
         }
+        setInput('');
+      };
  
       
     const handleInput =e=>{
@@ -56,8 +46,10 @@ const Banner = ({donations}) => {
            </div>
         </div>
         </div>
-     </div>
+     </div >
+            <div className="mt-10">
             <Match donationss={donationss}></Match>
+            </div>
      
         </div>
     );

@@ -4,8 +4,8 @@
 import { Link } from "react-router-dom";
 
 const DonationCard = ({donation}) => {
-      
-    const {id,title,category,description,cardBackGroundColour,categoryBackGroundColour,textColour,image}=donation
+  console.log(donation)
+  const {id,title,category,description,cardBackGroundColour,categoryBackGroundColour,textColour,image}=donation
     
 
     console.log(donation)
