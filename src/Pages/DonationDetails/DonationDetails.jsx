@@ -16,6 +16,7 @@ const DonationDetails = () => {
     return (
       
         <div>
+          
             <DonationDetailscard key={donation.id} donation={donation}></DonationDetailscard>
         </div>
     );

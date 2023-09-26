@@ -28,7 +28,7 @@ const DonationCard = ({donate}) => {
       {title}
     </h4>
     <p style={{color:`${textColour}`}} className="mb-8 block font-sans text-base font-normal leading-relaxed text-gray-700 antialiased">
-      ${price}
+      ${price}.00
     </p>
     <button className="Btn rounded p-2 text-white" style={{backgroundColor:`${textColour}`}}>
         View Details

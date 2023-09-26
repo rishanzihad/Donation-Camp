@@ -4,16 +4,19 @@ import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import Statics from "../Pages/Statics/Statics";
 import DonationDetails from "../Pages/DonationDetails/DonationDetails";
+import Error from "../Components/Error/Error";
+
 
 const myCreateRoot = createBrowserRouter([
     {
         path:'/',
         element:<MainLayOut></MainLayOut>,
+        errorElement:<Error></Error>,
         children:[
             {
                 path:'/',
                 element:<Home></Home>,
-                loader:()=> fetch('data.json')
+                loader:()=> fetch('/public/data.json')
             },
             {
                 path:'/donation',
@@ -24,12 +27,16 @@ const myCreateRoot = createBrowserRouter([
                 element:<Statics></Statics>
             },
             {
-                path:'details/:id',
+                path:'/details/:id',
                 element:<DonationDetails></DonationDetails>,
-                loader:()=> fetch('/data.json')
+                loader:()=> fetch('../public/data.json')
             },
             
-        ]
-    }
+            
+            
+        ],
+        
+    },
+    
 ])
 export default myCreateRoot

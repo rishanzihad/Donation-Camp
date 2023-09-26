@@ -13,7 +13,7 @@ const DonationDetailscard = ({ donation }) => {
       if(!donatedCard){
         addedDonated.push(donation)
         localStorage.setItem('donated',JSON.stringify(addedDonated))
-        swal("Good job!", "Product Added Successful", "success");
+        swal("Good job!", "Donated Successful", "success");
       }
       else{
         const isExits =donatedCard.find(donation=> donation.id == id)
@@ -21,10 +21,10 @@ const DonationDetailscard = ({ donation }) => {
         if(!isExits){
           addedDonated.push(...donatedCard,donation)
         localStorage.setItem('donated',JSON.stringify(addedDonated))
-        swal("Good job!", "Product Added Successful", "success");
+        swal("Good job!", "Donated Successful", "success");
         }
         else{
-          swal("Added Failed!", "No Duplicate", "error");
+          swal("Donation Failed!", "No Duplicate", "error");
         }
       }
   }
@@ -32,7 +32,7 @@ const DonationDetailscard = ({ donation }) => {
     <div>
       <div className="card relative ">
         <figure>
-          <img className="w-full" src={image} alt="Shoes" />
+          <img style={{objectFit: 'cover'}} className="w-full " src={image} alt="Shoes" />
         </figure>
         <div className="card-body ">
           <p></p>
@@ -41,7 +41,7 @@ const DonationDetailscard = ({ donation }) => {
             <div className="absolute  w-full h-full bg-black opacity-30"></div>
 
             <button onClick={handleDonate}
-              className="btn relative z-10"
+              className="btn relative z-10 text-white"
               style={{ backgroundColor: `${textColour}` }}
             >
               Donate ${price}

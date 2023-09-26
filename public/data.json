@@ -1,135 +1,134 @@
 [
-    {
-      "id": 1,
-      "title": "Support for Hunger Relief",
-      "image": "https://i.ibb.co/C1bXhs7/Food.png",
-      "category": "Food",
-      "description": "Help us provide nutritious meals to those in need.",
-      "price": 50,
-      "cardBackGroundColour": "#F7CDD2",
-      "categoryBackGroundColour": "#F3B4BC",
-      "textColour": "#FF0000"
-    },
-    {
-      "id": 2,
-      "image": "https://i.ibb.co/7XYSpYt/Education.png",
-      "title": "Educational Scholarships",
-      "category": "Education",
-      "description": "Sponsor underprivileged students' education for a brighter future.",
-      "price": 75,
-      "cardBackGroundColour": "#98ceff",
-      "categoryBackGroundColour": "#70baff",
-      "textColour": "#0000FF"
-    },
-    {
-      "id": 3,
-      "image": "https://i.ibb.co/fQCvRHx/Health.png",
-      "title": "Medical Care for the Needy",
-      "category": "Health",
-      "description": "Provide healthcare support to individuals without access to medical facilities.",
-      "price": 100,
-      "cardBackGroundColour": "#DEFFED",
-      "categoryBackGroundColour": "#A5FDD1",
-      "textColour": " #00FF00"
-    },
-    {
-      "id": 4,
-      "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
-      "title": "Warm Clothing Drive",
-      "category": "Cloth",
-      "description": "Donate warm clothing to help those facing cold winters.",
-      "price": 30,
-      "cardBackGroundColour": "#FFF4E9",
-      "categoryBackGroundColour": "#F2D8B4",
-      "textColour": "#E09F45"
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co/C1bXhs7/Food.png",
-      "title": "Meal Kits for Families",
-      "category": "Food",
-      "description": "Contribute to meal kits for families struggling with food insecurity.",
-      "price": 45,
-      "cardBackGroundColour": "#F7CDD2",
-      "categoryBackGroundColour": "#F3B4BC",
-      "textColour": "#FF0000"
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co/7XYSpYt/Education.png",
-      "title": "School Supplies for Kids",
-      "category": "Education",
-      "description": "Provide essential school supplies to underprivileged children.",
-      "price": 60,
-      "cardBackGroundColour": "#98ceff",
-      "categoryBackGroundColour": "#70baff",
-      "textColour": "#0000FF"
-    },
-    {
-      "id": 7,
-      "image": "https://i.ibb.co/fQCvRHx/Health.png",
-      "title": "Healthcare Outreach Program",
-      "category": "Health",
-      "description": "Support a healthcare outreach program in underserved communities.",
-      "price": 90,
-      "cardBackGroundColour": "#DEFFED",
-      "categoryBackGroundColour": "#A5FDD1",
-      "textColour": " #00FF00"
-    },
-    {
-      "id": 8,
-      "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
-      "title": "Warm Blankets for the Homeless",
-      "category": "Cloth",
-      "description": "Donate blankets to keep homeless individuals warm during the winter.",
-      "price": 25,
-      "cardBackGroundColour": "#FFF4E9",
-      "categoryBackGroundColour": "#F2D8B4",
-      "textColour": "#E09F45"
-    },
-    {
-      "id": 9,
-      "image": "https://i.ibb.co/C1bXhs7/Food.png",
-      "title": "Emergency Food Assistance",
-      "category": "Food",
-      "description": "Provide emergency food assistance to families in crisis.",
-      "price": 55,
-      "cardBackGroundColour": "#F7CDD2",
-      "categoryBackGroundColour": "#F3B4BC",
-      "textColour": "#FF0000"
-    },
-    {
-      "id": 10,
-      "image": "https://i.ibb.co/7XYSpYt/Education.png",
-      "title": "Scholarships for Higher Education",
-      "category": "Education",
-      "description": "Support aspiring students in pursuing higher education.",
-      "price": 80,
-      "cardBackGroundColour": "#98ceff",
-      "categoryBackGroundColour": "#70baff",
-      "textColour": "#0000FF"
-    },
-    {
-      "id": 11,
-      "image": "https://i.ibb.co/fQCvRHx/Health.png",
-      "title": "Medical Supplies for Clinics",
-      "category": "Health",
-      "description": "Donate essential medical supplies to clinics serving vulnerable populations.",
-      "price": 110,
-      "cardBackGroundColour": "#DEFFED",
-      "categoryBackGroundColour": "#A5FDD1",
-      "textColour": " #00FF00"
-    },
-    {
-      "id": 12,
-      "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
-      "title": "Winter Clothing Drive",
-      "category": "Cloth",
-      "description": "Collect winter clothing items for those in need during the cold season.",
-      "price": 35,
-      "cardBackGroundColour": "#FFF4E9",
-      "categoryBackGroundColour": "#F2D8B4",
-      "textColour": "#E09F45"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Support for Hunger Relief",
+    "image": "https://i.ibb.co/C1bXhs7/Food.png",
+    "category": "Food",
+    "description": "Help us provide nutritious meals to those in need. Your contribution of $50.00 will make a significant difference in alleviating food insecurity and ensuring that individuals have access to vital sustenance.",
+    "price": 50.00,
+    "cardBackGroundColour": "#F7CDD2",
+    "categoryBackGroundColour": "#F3B4BC",
+    "textColour": "#FF0000"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/7XYSpYt/Education.png",
+    "title": "Educational Scholarships",
+    "category": "Education",
+    "description": "Sponsor underprivileged students' education for a brighter future. With your generous donation of $75.00, you can empower young minds to access quality education and open doors to better opportunities.",
+    "price": 75.00,
+    "cardBackGroundColour": "#98ceff",
+    "categoryBackGroundColour": "#70baff",
+    "textColour": "#0000FF"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/fQCvRHx/Health.png",
+    "title": "Medical Care for the Needy",
+    "category": "Health",
+    "description": "Provide healthcare support to individuals without access to medical facilities. Your $100.00 donation will assist in delivering crucial medical care to underserved communities, improving overall well-being.",
+    "price": 100.00,
+    "cardBackGroundColour": "#DEFFED",
+    "categoryBackGroundColour": "#A5FDD1",
+    "textColour": " #00FF00"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
+    "title": "Warm Clothing Drive",
+    "category": "Cloth",
+    "description": "Donate warm clothing to help those facing cold winters. A contribution of $30.00 will provide comfort and protection to individuals in need during harsh weather conditions.",
+    "price": 30.00,
+    "cardBackGroundColour": "#FFF4E9",
+    "categoryBackGroundColour": "#F2D8B4",
+    "textColour": "#E09F45"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/C1bXhs7/Food.png",
+    "title": "Meal Kits for Families",
+    "category": "Food",
+    "description": "Contribute to meal kits for families struggling with food insecurity. Your $45.00 donation will ensure that families have access to nourishing meals, promoting their health and well-being.",
+    "price": 45.00,
+    "cardBackGroundColour": "#F7CDD2",
+    "categoryBackGroundColour": "#F3B4BC",
+    "textColour": "#FF0000"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/7XYSpYt/Education.png",
+    "title": "School Supplies for Kids",
+    "category": "Education",
+    "description": "Provide essential school supplies to underprivileged children. With a donation of $60.00, you can equip children with the tools they need to succeed in their education.",
+    "price": 60.00,
+    "cardBackGroundColour": "#98ceff",
+    "categoryBackGroundColour": "#70baff",
+    "textColour": "#0000FF"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/fQCvRHx/Health.png",
+    "title": "Healthcare Outreach Program",
+    "category": "Health",
+    "description": "Support a healthcare outreach program in underserved communities. Your $90.00 donation will enable the delivery of critical healthcare services to those who need it most.",
+    "price": 90.00,
+    "cardBackGroundColour": "#DEFFED",
+    "categoryBackGroundColour": "#A5FDD1",
+    "textColour": " #00FF00"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
+    "title": "Warm Blankets for the Homeless",
+    "category": "Cloth",
+    "description": "Donate blankets to keep homeless individuals warm during the winter. A $25.00 donation can provide comfort and protection to those experiencing homelessness.",
+    "price": 25.00,
+    "cardBackGroundColour": "#FFF4E9",
+    "categoryBackGroundColour": "#F2D8B4",
+    "textColour": "#E09F45"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/C1bXhs7/Food.png",
+    "title": "Emergency Food Assistance",
+    "category": "Food",
+    "description": "Provide emergency food assistance to families in crisis. Your $55.00 donation will help ensure that families facing emergencies have access to essential food supplies.",
+    "price": 55.00,
+    "cardBackGroundColour": "#F7CDD2",
+    "categoryBackGroundColour": "#F3B4BC",
+    "textColour": "#FF0000"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/7XYSpYt/Education.png",
+    "title": "Scholarships for Higher Education",
+    "category": "Education",
+    "description": "Support aspiring students in pursuing higher education. Your $80.00 donation can make higher education dreams a reality for deserving individuals.",
+    "price": 80.00,
+    "cardBackGroundColour": "#98ceff",
+    "categoryBackGroundColour": "#70baff",
+    "textColour": "#0000FF"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/fQCvRHx/Health.png",
+    "title": "Medical Supplies for Clinics",
+    "category": "Health",
+    "description": "Donate essential medical supplies to clinics serving vulnerable populations. Your $110.00 donation will contribute to the provision of quality healthcare services in underserved areas.",
+    "price": 110.00,
+    "cardBackGroundColour": "#DEFFED",
+    "categoryBackGroundColour": "#A5FDD1",
+    "textColour": " #00FF00"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/RNb6zPm/Clothing.png",
+    "title": "Winter Clothing Drive",
+    "category": "Cloth",
+    "description":" Collect winter clothing items for those in need during the cold season. A $35.00 donation will help keep individuals warm and protected during the winter months.",
+    "price": 35.00,
+    "cardBackGroundColour": "#FFF4E9",
+    "categoryBackGroundColour": "#F2D8B4",
+    "textColour": "#E09F45"
+  }
+]

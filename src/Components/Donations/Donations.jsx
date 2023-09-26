@@ -3,6 +3,7 @@ import DonationCard from "./DonationCard";
 
 
 const Donations = ({donations}) => {
+    
     return (
         <div className="grid lg:grid-cols-4 gap-5 grid-cols-2 md:grid-cols-3">
             {
