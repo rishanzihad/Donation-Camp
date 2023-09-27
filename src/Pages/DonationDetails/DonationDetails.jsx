@@ -7,7 +7,7 @@ const DonationDetails = () => {
     const {id} =useParams()
     const donations =useLoaderData()
     useEffect(()=>{
-        const findDonation = donations.find( donation => donation.id == id)
+        const findDonation =donations && donations?.find( donation => donation.id == id)
         setdonation(findDonation)
        
     },[id,donations])
